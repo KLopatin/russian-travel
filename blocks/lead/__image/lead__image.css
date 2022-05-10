@@ -1,0 +1,13 @@
+.lead__image {
+    background-image: url("../../../images/lead-polka.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0 auto;
+    aspect-ratio: 16/10;
+}
+
+@media (max-width: 1024px) {
+    .lead__image {
+      max-width: 928px;
+    }
+  }

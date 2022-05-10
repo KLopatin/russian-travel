@@ -1,0 +1,9 @@
+.page {
+    background-color: #2A2C2F;
+    color: #fff;
+    /*Задали макс. ширину*/
+    width: 100%;
+    font-family: "Inter", Arial, sans-serif;
+    /*Отцентровали весь контент*/
+    margin: 0 auto;
+}
