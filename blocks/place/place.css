@@ -28,7 +28,7 @@
     }
 }
 
-@media (max-width: 527px) {
+@media (max-width: 600px) { /*Убран скролл на разрешении от 578px? показываем моб. версию с 600px*/
     .place {
         margin: 0 auto 50px auto;
         max-width: 320%;

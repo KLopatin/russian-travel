@@ -8,7 +8,7 @@
     color: #FFFFFF;
 }
 
-@media (max-width: 505px) {
+@media (max-width: 579px) {
     .cover__title {
         max-width: 250px;
         margin: 0;

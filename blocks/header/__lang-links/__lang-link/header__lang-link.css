@@ -11,9 +11,6 @@
     margin-right: 0;
 }
 
-.header__lang-link:first-of-type {
-    text-decoration: underline;
-}
 
 @media (max-width: 425px) {
     .header__lang-link {
